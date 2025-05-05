@@ -2,10 +2,10 @@
 
 
 ## Implementation
-
+I added the things required for the exercise
 ## References
 
 ## Future Development
 
 ## Created by
-Nathan Mishler
+Max Ramirez, DoughNStuff
